@@ -103,7 +103,7 @@
 
             &mt LCTRL ESC    &kp HOME  &kp PG_DN  &kp PG_UP &kp END    &trans                         &kp LEFT   &kp DOWN   &kp UP      &kp RIGHT   &trans     &trans
 
-            &ss_3 &ss_4 &ss_5  &ss_4_clip     &trans     &trans     &trans      &trans   &kp DEL    &kp BSPC   &trans      &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_CLR
+            &trans   &trans  &ss_3 &ss_4 &ss_5  &ss_4_clip     &trans      &trans   &kp DEL    &kp BSPC   &trans      &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_CLR
 
                                     &trans     &trans  &trans  &trans     &trans  &trans  &trans  &trans
                 >;
